@@ -1,7 +1,16 @@
 body {
-    background-color: red;
+    background-color: #f2f2f2;
 }
 
 h1 {
-    color: white;
+    color: darkslateblue;
+}
+
+.form,
+.greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
 }
