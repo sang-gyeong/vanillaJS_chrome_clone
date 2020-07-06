@@ -5,9 +5,9 @@ A clone of the productivity chorme app Momentum on Vanilla JS
 - [x] Clock  
 - [x] To Do List  
 - [ ] Weather  
-- [ ] Daily Quote  
-- [ ] Daily Photo  
-- [ ] Offline Support  
+- [x] Daily Quote  
+- [x] Daily Photo  
+- [x] Offline Support  
   
 ## Try it out  
 
