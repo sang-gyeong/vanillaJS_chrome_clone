@@ -4,10 +4,10 @@ A clone of the productivity chorme app Momentum on Vanilla JS
 ## Features  
 - [x] Clock  
 - [x] To Do List  
-- [ ] Weather  
+- [x] Weather  
 - [ ] Daily Quote  
-- [ ] Daily Photo  
-- [ ] Offline Support  
+- [x] Daily Photo  
+- [x] Offline Support  
   
-## Try it out  
+## Check it out  
 
